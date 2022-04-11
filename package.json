@@ -1,0 +1,18 @@
+{
+  "name": "vercel-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DenisMPar/vercel-api.git",
+  "author": "DenisMPar <paradadenismartin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
